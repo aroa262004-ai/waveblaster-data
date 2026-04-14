@@ -14,5 +14,13 @@
     "latitude": 42.190278,
     "longitude": -8.856384,
     "confidence": 0.87
+  },
+  {
+    "node_id": "boya_3",
+    "event": "explosion_detected",
+    "timestamp_utc": "2026-04-16T08:40:00Z",
+    "latitude": 42.216111,
+    "longitude": -8.797224,
+    "confidence": 0.93
   }
 ]

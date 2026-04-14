@@ -270,5 +270,16 @@
     "battery_v": null,
     "lora_rssi_dbm": -51,
     "gateway_id": "rx_station_1"
+  },
+  {
+    "schema_version": "1.0",
+    "event_id": "RECIBIDO: boya_5_20260414T224335.008109+0000",
+    "node_id": "RECIBIDO: boya_5",
+    "event": "explosion_detected",
+    "Hora de la explosion": "2026-04-14 - 22:43:35",
+    "Latitud": 42.2401,
+    "Longitud": -8.7207,
+    "Confianza": 0.95,
+    "RSSI (dBm)": null
   }
 ]

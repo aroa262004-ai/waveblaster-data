@@ -130,5 +130,25 @@
     "battery_v": null,
     "lora_rssi_dbm": null,
     "gateway_id": "rx_station_1"
+  },
+  {
+    "schema_version": "1.0",
+    "event_id": "boya_2_20260414T222621.899825+0000",
+    "node_id": "boya_2",
+    "event": "explosion_detected",
+    "event_class": "underwater_explosion",
+    "timestamp_utc": "2026-04-14T22:26:21.899825+00:00",
+    "received_timestamp_utc": "2026-04-14T22:26:25Z",
+    "latitude": 42.2401,
+    "longitude": -8.7207,
+    "confidence": 0.95,
+    "score": 0.95,
+    "severity": "high",
+    "duration_ms": null,
+    "peak_level_db": null,
+    "model_version": "detector_v1.0",
+    "battery_v": null,
+    "lora_rssi_dbm": -50,
+    "gateway_id": "rx_station_1"
   }
 ]

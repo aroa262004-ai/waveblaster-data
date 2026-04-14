@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "node_id": "boya_1",
+    "event": "explosion_detected",
+    "timestamp_utc": "2026-04-16T08:10:00Z",
+    "latitude": 42.23594,
+    "longitude": -8.849534,
+    "confidence": 0.91
+  }
+]

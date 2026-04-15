@@ -1638,5 +1638,15 @@
     "Longitud": 9.4567,
     "Confianza": 0.95,
     "RSSI (dBm)": -48
+  },
+  {
+    "event_id": "RECIBIDO: boya_2_20260415T112914Z",
+    "node_id": "RECIBIDO: boya_2",
+    "event": "explosion_detected",
+    "Hora de la explosion": "2026-04-15 - 11:29:15",
+    "Latitud": 42.2388,
+    "Longitud": -8.7219,
+    "Confianza": 0.93,
+    "RSSI (dBm)": null
   }
 ]

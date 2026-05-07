@@ -1288,5 +1288,15 @@
     "Longitud": -8.7218,
     "Confianza": 0.81,
     "RSSI (dBm)": -42
+  },
+  {
+    "event_id": "boya_1_20260507T163223",
+    "node_id": "boya_1",
+    "event": "explosion_detected",
+    "Hora de la explosion": "2026-05-07 14:32:25",
+    "Latitud": 42.2401,
+    "Longitud": -8.7207,
+    "Confianza": 1.0,
+    "RSSI (dBm)": -38
   }
 ]
